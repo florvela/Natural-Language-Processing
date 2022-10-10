@@ -29,6 +29,8 @@ Creation of Custom Embeddings with Gensim
 
 [Notebook](clase_3/jupyter_notebooks/desafio_3.ipynb)
 
+![img4](img/gensim.jpeg)
+
 ## Predict Next Word
 
 Predict the next word in a text.
@@ -39,13 +41,15 @@ The model is trained with Charles' Dickens' books, using:
 
 [Notebook](clase_4/jupyter_notebooks/desafio_4.ipynb)
 
-![img4](img/many-to-one.png)
+![img5](img/many-to-one.png)
 
 ## Sentiment analysis with Embeddings + LSTM
 
 Use reviews of clothing buyers to determines the evaluation of the buyer and their criticism (how many stars are assigned to the product).
 
 [Notebook](clase_5/ejercicios/desafio_5.ipynb)
+
+![img6](img/sentiment.jpg)
 
 ## QA bot
 
@@ -56,3 +60,5 @@ Using:
 * Fasttext Embeddings
 
 [Notebook](clase_6/ejercicios/6d_bot_qa.ipynb)
+
+![img7](img/qabot.png)
