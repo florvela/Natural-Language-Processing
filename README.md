@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing 🧠🤖
 
 Repositorio de la materia de Procesamiento de Lenguaje Natural de CEIA - Cohorte 5. 2022
 
@@ -62,3 +62,7 @@ Using:
 [Notebook](clase_6/ejercicios/6d_bot_qa.ipynb)
 
 ![img7](img/qabot.png)
+
+# Thanks! ❤️
+
+Feel free to contact me by mail flor.p.vela@gmail.com for any doubt.
