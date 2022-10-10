@@ -8,7 +8,7 @@ Word Embeddings or Word vectorization is a methodology in NLP to map words or ph
 
 ![img1](img/tfidf.png)
 
-In this ![Notebook](clase_1/ejercicios/1a%20-%20word2vec.ipynb) we cover:
+In this [Notebook](clase_1/ejercicios/1a%20-%20word2vec.ipynb) we cover:
 * Corpus' vocabulary
 * TF-IDF
 * Cosine similarity
@@ -19,7 +19,7 @@ In this ![Notebook](clase_1/ejercicios/1a%20-%20word2vec.ipynb) we cover:
 
 Basic bot that answers covid questions with DNN and Spacy.
 
-![Notebook](clase_2/jupyter_notebooks/tensorflow/bot_spacy_covid.ipynb)
+[Notebook](clase_2/jupyter_notebooks/tensorflow/bot_spacy_covid.ipynb)
 
 ![img3](img/chatbot.jpg)
 
@@ -27,7 +27,7 @@ Basic bot that answers covid questions with DNN and Spacy.
 
 Creation of Custom Embeddings with Gensim
 
-![Notebook](clase_3/jupyter_notebooks/desafio_3.ipynb)
+[Notebook](clase_3/jupyter_notebooks/desafio_3.ipynb)
 
 ## Predict Next Word
 
@@ -37,7 +37,7 @@ The model is trained with Charles' Dickens' books, using:
 * Bidirectional LSTM layers 
 * Many-to-one architecture
 
-![Notebook](clase_4/jupyter_notebooks/desafio_4.ipynb)
+[Notebook](clase_4/jupyter_notebooks/desafio_4.ipynb)
 
 ![img4](img/many-to-one.png)
 
@@ -45,7 +45,7 @@ The model is trained with Charles' Dickens' books, using:
 
 Use reviews of clothing buyers to determines the evaluation of the buyer and their criticism (how many stars are assigned to the product).
 
-![Notebook](clase_5/ejercicios/desafio_5.ipynb)
+[Notebook](clase_5/ejercicios/desafio_5.ipynb)
 
 ## QA bot
 
@@ -55,4 +55,4 @@ Using:
 * LSTM
 * Fasttext Embeddings
 
-![Notebook](clase_6/ejercicios/6d_bot_qa.ipynb)
+[Notebook](clase_6/ejercicios/6d_bot_qa.ipynb)
