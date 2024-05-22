@@ -1,6 +1,6 @@
 # Introduction to Word Vectorization and Cosine Similarity in NLP
 
-This repository contains Jupyter notebooks that accompany the Medium post "[Introduction to Word Vectorization and Cosine Similarity in NLP](https://medium.com/@florvela/making-nlp-easy-simple-techniques-for-word-vectorization-and-cosine-similarity-e6ef94586f71)". It aims to provide practical examples and detailed explanations of various word vectorization techniques and the use of cosine similarity in Natural Language Processing (NLP).
+This folder contains Jupyter notebooks that accompany the Medium post "[Introduction to Word Vectorization and Cosine Similarity in NLP](https://medium.com/@florvela/making-nlp-easy-simple-techniques-for-word-vectorization-and-cosine-similarity-e6ef94586f71)". It aims to provide practical examples and detailed explanations of various word vectorization techniques and the use of cosine similarity in Natural Language Processing (NLP).
 
 ## Repository Contents
 
